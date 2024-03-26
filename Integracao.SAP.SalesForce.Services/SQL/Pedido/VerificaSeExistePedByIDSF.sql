@@ -1,0 +1,1 @@
+﻿select DocEntry FROm [{0}].dbo.ORDR WHERE U_k33p_SFID = '{1}' AND CANCELED = 'N';

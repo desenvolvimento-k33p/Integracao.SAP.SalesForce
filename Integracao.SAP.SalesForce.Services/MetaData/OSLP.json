@@ -1,0 +1,21 @@
+﻿
+{
+ 
+  "value": [
+    
+    {
+      "Name": "IdSF",
+      "Type": "db_Alpha",
+      "Size": 50,
+      "Description": "ID Sales Force",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "OSLP",
+      "FieldID": 1,
+      "EditSize": 50,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    }

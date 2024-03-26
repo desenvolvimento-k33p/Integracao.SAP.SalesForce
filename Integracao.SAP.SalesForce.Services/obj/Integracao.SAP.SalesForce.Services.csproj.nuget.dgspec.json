@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Services\\Integracao.SAP.SalesForce.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj",
+        "projectName": "Integracao.SAP.SalesForce.Core",
+        "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj": {
+                "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj",
+        "projectName": "Integracao.SAP.SalesForce.Domain",
+        "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\Integracao.SAP.SalesForce.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\Integracao.SAP.SalesForce.Infra.csproj",
+        "projectName": "Integracao.SAP.SalesForce.Infra",
+        "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\Integracao.SAP.SalesForce.Infra.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj": {
+                "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj"
+              },
+              "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj": {
+                "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Domain\\Integracao.SAP.SalesForce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Services\\Integracao.SAP.SalesForce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Services\\Integracao.SAP.SalesForce.Services.csproj",
+        "projectName": "Integracao.SAP.SalesForce.Services",
+        "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Services\\Integracao.SAP.SalesForce.Services.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj": {
+                "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Core\\Integracao.SAP.SalesForce.Core.csproj"
+              },
+              "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\Integracao.SAP.SalesForce.Infra.csproj": {
+                "projectPath": "D:\\4-ARQUIVOS DAS EMPRESAS TRABALHADAS\\K33P\\GITHUB\\Camlin\\Fontes\\23022024\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce\\Integracao.SAP.SalesForce.Infra\\Integracao.SAP.SalesForce.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

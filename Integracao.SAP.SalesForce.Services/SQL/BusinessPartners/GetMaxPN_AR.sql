@@ -1,0 +1,1 @@
+﻿select max("CardCode") FROm[{0}].dbo.OCRD WHERE "GroupCode" = 100

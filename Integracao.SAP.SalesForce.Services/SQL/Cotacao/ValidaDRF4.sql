@@ -1,0 +1,1 @@
+﻿select count(*) FROM [{0}].dbo.DRF4 where DocEntry = {1};

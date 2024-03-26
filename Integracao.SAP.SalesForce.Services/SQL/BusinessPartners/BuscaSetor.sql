@@ -1,0 +1,1 @@
+﻿select IndCode  from [{0}].dbo.OOND WHERE ISNULL(U_CodSetor,1) ='{1}' ;

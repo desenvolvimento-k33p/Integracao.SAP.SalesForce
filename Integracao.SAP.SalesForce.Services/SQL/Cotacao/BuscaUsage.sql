@@ -1,0 +1,1 @@
+﻿Select isnull(U_codUsage,'') from [{0}].dbo.OUSG where ID = '{1}';

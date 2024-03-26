@@ -1,0 +1,1 @@
+﻿select TOP 1 PayMethCod  from [{0}].dbo.OPYM WHERE BankTransf ='B' and TYPE = 'I' AND Active = 'Y'

@@ -1,0 +1,176 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SQL\BusinessPartners\BuscaCondPgto.sql" />
+    <None Remove="SQL\BusinessPartners\BuscaSetor.sql" />
+    <None Remove="SQL\BusinessPartners\GetBoletoAtivoSAP.sql" />
+    <None Remove="SQL\BusinessPartners\GetBpartnersById_CNPJ.sql" />
+    <None Remove="SQL\BusinessPartners\GetBpartnersById_FederalTaxId.sql" />
+    <None Remove="SQL\BusinessPartners\GetBpartnersById_FederalTaxIdARCH.sql" />
+    <None Remove="SQL\BusinessPartners\GetBpartnersBySFID.sql" />
+    <None Remove="SQL\BusinessPartners\GetCFS2.sql" />
+    <None Remove="SQL\BusinessPartners\GetCNPJByIdSF.sql" />
+    <None Remove="SQL\BusinessPartners\GetDepositoAtivoSAP.sql" />
+    <None Remove="SQL\BusinessPartners\GetEstadoAR.sql" />
+    <None Remove="SQL\BusinessPartners\GetLastModificationDatePN.sql" />
+    <None Remove="SQL\BusinessPartners\GetMaxPNCH.sql" />
+    <None Remove="SQL\BusinessPartners\GetMaxPN_AR.sql" />
+    <None Remove="SQL\BusinessPartners\GetMunicipioByDesc.sql" />
+    <None Remove="SQL\BusinessPartners\GetMunicipioEstByDesc.sql" />
+    <None Remove="SQL\BusinessPartners\GetOBNI.sql" />
+    <None Remove="SQL\BusinessPartners\GetOBNI2.sql" />
+    <None Remove="SQL\BusinessPartners\GetPais.sql" />
+    <None Remove="SQL\BusinessPartners\GetTokenBD.sql" />
+    <None Remove="SQL\BusinessPartners\GetVendedorByIdSF.sql" />
+    <None Remove="SQL\BusinessPartners\GetVendedorByIdSF2.sql" />
+    <None Remove="SQL\BusinessPartners\InsereInfTrib.sql" />
+    <None Remove="SQL\BusinessPartners\INSERTCRD11_1.sql" />
+    <None Remove="SQL\BusinessPartners\INSERTCRD11_2.sql" />
+    <None Remove="SQL\BusinessPartners\InsertTokenBD.sql" />
+    <None Remove="SQL\BusinessPartners\InsertTokenBD2.sql" />
+    <None Remove="SQL\BusinessPartners\SetDataAnteriorPN.sql" />
+    <None Remove="SQL\BusinessPartners\SetLastModificationDatePN.sql" />
+    <None Remove="SQL\BusinessPartners\updateCRD11_1.sql" />
+    <None Remove="SQL\BusinessPartners\updateCRD11_2.sql" />
+    <None Remove="SQL\Cotacao\AtualizaFlagCot.sql" />
+    <None Remove="SQL\Cotacao\BuscaCatNum.sql" />
+    <None Remove="SQL\Cotacao\BuscaDataVencCot.sql" />
+    <None Remove="SQL\Cotacao\BuscaDocEntryCot.sql" />
+    <None Remove="SQL\Cotacao\BuscaProd.sql" />
+    <None Remove="SQL\Cotacao\BuscaUsage.sql" />
+    <None Remove="SQL\Cotacao\GetCC1.sql" />
+    <None Remove="SQL\Cotacao\GetCC1_FromCot.sql" />
+    <None Remove="SQL\Cotacao\GetCC2.sql" />
+    <None Remove="SQL\Cotacao\GetCC2_FromCot.sql" />
+    <None Remove="SQL\Cotacao\GetCC3.sql" />
+    <None Remove="SQL\Cotacao\GetCC3_FromCot.sql" />
+    <None Remove="SQL\Cotacao\GetCotacoesRetorno.sql" />
+    <None Remove="SQL\Cotacao\GetCotacoesRetorno2.sql" />
+    <None Remove="SQL\Cotacao\GetDadosImpostos.sql" />
+    <None Remove="SQL\Cotacao\GetDadosImpostos2.sql" />
+    <None Remove="SQL\Cotacao\GetDep.sql" />
+    <None Remove="SQL\Cotacao\GetExistsDraft.sql" />
+    <None Remove="SQL\Cotacao\GetLastModificationDateCot.sql" />
+    <None Remove="SQL\Cotacao\GetLineTax.sql" />
+    <None Remove="SQL\Cotacao\GetMemoriaCalculo.sql" />
+    <None Remove="SQL\Cotacao\GetMemoriaCalculoNEW.sql" />
+    <None Remove="SQL\Cotacao\GetPayMethodCot.sql" />
+    <None Remove="SQL\Cotacao\GetPNCot.sql" />
+    <None Remove="SQL\Cotacao\GetTaxaDia.sql" />
+    <None Remove="SQL\Cotacao\GetVendedorCot.sql" />
+    <None Remove="SQL\Cotacao\SetDataAnteriorCot.sql" />
+    <None Remove="SQL\Cotacao\SetLastModificationDateCot.sql" />
+    <None Remove="SQL\Cotacao\ValidaDRF4.sql" />
+    <None Remove="SQL\Cotacao\VerificaSeExisteCotByIDSF.sql" />
+    <None Remove="SQL\Pedido\AtualizaFlagPed.sql" />
+    <None Remove="SQL\Pedido\BuscaBaseLine.sql" />
+    <None Remove="SQL\Pedido\GetDadosImpostos2Ped.sql" />
+    <None Remove="SQL\Pedido\GetEmailFilialByQuotation.sql" />
+    <None Remove="SQL\Pedido\GetLastModificationDatePed.sql" />
+    <None Remove="SQL\Pedido\GetPedRetorno.sql" />
+    <None Remove="SQL\Pedido\GetPedRetorno2.sql" />
+    <None Remove="SQL\Pedido\GetProdutoByQuotation.sql" />
+    <None Remove="SQL\Pedido\SetDataAnteriorCot.sql" />
+    <None Remove="SQL\Pedido\SetLastModificationDatePed.sql" />
+    <None Remove="SQL\Pedido\VerificaSeExistePedByIDSF.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="SQL\BusinessPartners\BuscaSetor.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\BuscaCondPgto.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetBpartnersById_FederalTaxIdARCH.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetCNPJByIdSF.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetMaxPNCH.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetMunicipioEstByDesc.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetCFS2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetVendedorByIdSF2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\INSERTCRD11_1.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\INSERTCRD11_2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\updateCRD11_1.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\updateCRD11_2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetOBNI2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetPais.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetBpartnersById_FederalTaxId.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetDepositoAtivoSAP.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetBoletoAtivoSAP.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetEstadoAR.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetMaxPN_AR.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetBpartnersBySFID.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetVendedorByIdSF.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetOBNI.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\InsereInfTrib.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\InsertTokenBD2.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\AtualizaFlagCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\BuscaUsage.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\BuscaCatNum.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\BuscaProd.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\BuscaDataVencCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\BuscaDocEntryCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC1_FromCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC3_FromCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC2_FromCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCotacoesRetorno2.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\ValidaDRF4.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetExistsDraft.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCotacoesRetorno.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetDadosImpostos2.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetDadosImpostos.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetLineTax.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetMemoriaCalculoNEW.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetMemoriaCalculo.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\VerificaSeExisteCotByIDSF.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetLastModificationDateCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetDep.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC1.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC2.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetCC3.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetPNCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetTaxaDia.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetVendedorCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetPayMethodCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\GetTokenBD2.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\InsertTokenBD2.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\SetDataAnteriorPN.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\SetLastModificationDatePN.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetLastModificationDatePN.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetMunicipioByDesc.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\InsertTokenBD.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetTokenBD.sql" />
+    <EmbeddedResource Include="SQL\BusinessPartners\GetBpartnersById_CNPJ.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\SetDataAnteriorCot.sql" />
+    <EmbeddedResource Include="SQL\Cotacao\SetLastModificationDateCot.sql" />
+    <EmbeddedResource Include="SQL\Pedido\AtualizaFlagPed.sql" />
+    <EmbeddedResource Include="SQL\Pedido\BuscaBaseLine.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetPedRetorno2.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetProdutoByQuotation.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetPedRetorno.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetDadosImpostos2Ped.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetLastModificationDatePed.sql" />
+    <EmbeddedResource Include="SQL\Pedido\SetDataAnteriorCot.sql" />
+    <EmbeddedResource Include="SQL\Pedido\SetLastModificationDatePed.sql" />
+    <EmbeddedResource Include="SQL\Pedido\GetEmailFilialByQuotation.sql" />
+    <EmbeddedResource Include="SQL\Pedido\VerificaSeExistePedByIDSF.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="FastMember" Version="1.5.0" />
+    <PackageReference Include="System.Collections.NonGeneric" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTO\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Core\Integracao.SAP.SalesForce.Core.csproj" />
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Infra\Integracao.SAP.SalesForce.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

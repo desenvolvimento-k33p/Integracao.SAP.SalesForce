@@ -1,0 +1,1 @@
+﻿select GroupNum  from [{0}].dbo.OCTG WHERE ISNULL(U_codPgto,1) ='{1}' ;

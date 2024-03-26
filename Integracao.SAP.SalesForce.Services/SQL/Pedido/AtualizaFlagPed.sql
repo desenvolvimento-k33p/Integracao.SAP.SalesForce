@@ -1,0 +1,1 @@
+﻿UPDATE [{0}].dbo.ORDR SET U_k33p_SFSend = 'N' WHERE DocNum = {1}

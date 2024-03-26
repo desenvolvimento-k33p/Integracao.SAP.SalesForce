@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Integracao.SAP.SalesForce.Domain/1.0.0": {
+        "runtime": {
+          "Integracao.SAP.SalesForce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integracao.SAP.SalesForce.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

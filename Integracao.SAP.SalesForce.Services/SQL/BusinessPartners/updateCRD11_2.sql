@@ -1,0 +1,1 @@
+﻿UPDATE {0}.[dbo].[CRD11] SET [TributType]={1},[TTStartDat]='{2}',[TTEndDate]='{3}'  WHERE CardCode = '{4}';

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.28" />
+    <PackageReference Include="Hangfire.Core" Version="1.7.28" />
+    <PackageReference Include="Hangfire.MemoryStorage" Version="1.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="6.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Core\Integracao.SAP.SalesForce.Core.csproj" />
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Domain\Integracao.SAP.SalesForce.Domain.csproj" />
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Infra\Integracao.SAP.SalesForce.Infra.csproj" />
+    <ProjectReference Include="..\Integracao.SAP.SalesForce.Services\Integracao.SAP.SalesForce.Services.csproj" />
+  </ItemGroup>
+
+</Project>

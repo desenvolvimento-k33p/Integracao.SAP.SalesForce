@@ -1,0 +1,1 @@
+﻿select SlpCode from [{0}].dbo.OSLP WHERE Email = '{1}'

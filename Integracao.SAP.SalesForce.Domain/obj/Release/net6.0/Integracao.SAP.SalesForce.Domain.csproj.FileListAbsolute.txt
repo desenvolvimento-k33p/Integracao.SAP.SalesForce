@@ -1,0 +1,11 @@
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\bin\Release\net6.0\Integracao.SAP.SalesForce.Domain.deps.json
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\bin\Release\net6.0\Integracao.SAP.SalesForce.Domain.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\bin\Release\net6.0\Integracao.SAP.SalesForce.Domain.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.AssemblyInfoInputs.cache
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.AssemblyInfo.cs
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\refint\Integracao.SAP.SalesForce.Domain.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\Integracao.SAP.SalesForce.Domain.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Domain\obj\Release\net6.0\ref\Integracao.SAP.SalesForce.Domain.dll

@@ -1,0 +1,1 @@
+﻿select ISNULL(U_K33P_TOKEN,'') as 'token' from [{0}].dbo.[@K33P_TOKENSF]

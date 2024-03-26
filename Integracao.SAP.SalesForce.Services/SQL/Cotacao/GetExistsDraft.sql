@@ -1,0 +1,1 @@
+﻿select DocEntry FROM [{0}].dbo.ODRF WHERE U_k33p_SFID = '{1}';

@@ -1,0 +1,1 @@
+﻿UPDATE [{0}].dbo.OQUT SET U_k33p_SFSend = 'N' WHERE DocEntry = {1}

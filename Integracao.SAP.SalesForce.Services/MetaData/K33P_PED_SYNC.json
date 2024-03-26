@@ -1,0 +1,62 @@
+﻿{
+
+  "TableName": "K33P_PED_SYNC",
+  "TableDescription": "K33P - Pedidos Controle Datas SalesForce",
+  "TableType": "bott_NoObject",
+  "Archivable": "tNO",
+  "ArchiveDateField": null
+}
+
+
+{
+ 
+  "value": [
+    
+    {
+      "Name": "K33P_IDSF",
+      "Type": "db_Alpha",
+      "Size": 30,
+      "Description": "ID Sales Force",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "@K33P_PED_SYNC",
+      "FieldID": 1,
+      "EditSize": 30,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    },
+    {
+      "Name": "K33P_LASTDATE",
+      "Type": "db_Alpha",
+      "Size": 30,
+      "Description": "Data Ult.Atualiz",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "@K33P_PED_SYNC",
+      "FieldID": 1,
+      "EditSize": 30,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    },
+    {
+      "Name": "K33P_DATE_ANT",
+      "Type": "db_Alpha",
+      "Size": 30,
+      "Description": "Data Anterior",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "@K33P_PED_SYNC",
+      "FieldID": 1,
+      "EditSize": 30,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    }

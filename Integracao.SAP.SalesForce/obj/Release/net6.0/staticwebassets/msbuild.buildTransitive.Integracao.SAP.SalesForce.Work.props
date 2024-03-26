@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Integracao.SAP.SalesForce.Work.props" />
+</Project>

@@ -1,0 +1,45 @@
+﻿{
+
+  "TableName": "K33P_TOKENSF2",
+  "TableDescription": "K33P - Token SalesForce2",
+  "TableType": "bott_NoObject",
+  "Archivable": "tNO",
+  "ArchiveDateField": null
+}
+
+
+{
+ 
+  "value": [
+    {
+      "Name": "K33P_TOKEN",
+      "Type": "db_Alpha",
+      "Size": 254,
+      "Description": "Token",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "@K33P_TOKENSF2",
+      "FieldID": 0,
+      "EditSize": 254,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    },
+    {
+      "Name": "K33P_DATA",
+      "Type": "db_Alpha",
+      "Size": 30,
+      "Description": "Data Ult.Atualiz",
+      "SubType": "st_None",
+      "LinkedTable": null,
+      "DefaultValue": null,
+      "TableName": "@K33P_TOKENSF2",
+      "FieldID": 1,
+      "EditSize": 30,
+      "Mandatory": "tNO",
+      "LinkedUDO": null,
+      "LinkedSystemObject": null,
+      "ValidValuesMD": []
+    },

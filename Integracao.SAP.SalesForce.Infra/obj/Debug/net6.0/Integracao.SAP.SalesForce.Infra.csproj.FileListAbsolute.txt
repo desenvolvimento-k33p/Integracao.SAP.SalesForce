@@ -1,0 +1,17 @@
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Infra.deps.json
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Infra.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Infra.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Core.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Domain.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Core.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\bin\Debug\net6.0\Integracao.SAP.SalesForce.Domain.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.csproj.AssemblyReference.cache
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.AssemblyInfoInputs.cache
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.AssemblyInfo.cs
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.csproj.CoreCompileInputs.cache
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.csproj.CopyComplete
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\refint\Integracao.SAP.SalesForce.Infra.dll
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\Integracao.SAP.SalesForce.Infra.pdb
+C:\Users\K33p\source\repos\Integracao.SAP.SalesForce\Integracao.SAP.SalesForce.Infra\obj\Debug\net6.0\ref\Integracao.SAP.SalesForce.Infra.dll

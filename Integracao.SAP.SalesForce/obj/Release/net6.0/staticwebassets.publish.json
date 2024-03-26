@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xRGoWhEOUeqTFlQOVHxNZtNlSwkO3ssOSLus62R50ZU=",
+  "Source": "Integracao.SAP.SalesForce.Work",
+  "BasePath": "_content/Integracao.SAP.SalesForce.Work",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

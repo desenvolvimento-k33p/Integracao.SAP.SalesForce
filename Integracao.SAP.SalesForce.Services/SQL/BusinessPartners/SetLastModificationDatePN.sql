@@ -1,0 +1,1 @@
+﻿UPDATE [{0}].dbo.[@K33P_PN_SYNC] SET U_K33P_LASTDATE = '{1}',[U_K33P_CARDCODE] = '{2}',[U_K33P_IDSF] = '{3}'  WHERE Code = 1;
